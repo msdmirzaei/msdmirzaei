@@ -1,75 +1,106 @@
 <div align="center">
 
-<img src="https://api.boot.dev/v1/users/public/0dda6278-298b-48d0-8906-9b9e24d45727/thumbnail" width="180" alt="Masoud"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:006D8F,100:00ADD8&height=200&section=header&text=Masoud%20Mirzaei&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Backend%20Engineer%20%C2%B7%20Pure%20Mathematics&descAlignY=53&descSize=18&animation=fadeIn" width="100%" alt="Masoud Mirzaei"/>
 
-# Hi, I'm Masoud 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00ADD8&center=true&vCenter=true&width=640&lines=Go+%E2%80%A2+System+Design+%E2%80%A2+Mathematics;Correctness+first.+Simplicity+over+complexity.;Higher+Category+Theory+%E2%86%92+Backend+Systems" alt="What I do"/>
 
-### Backend Engineer • M.Sc. Student in Pure Mathematics
+<br/>
 
-Building reliable backend systems with **Go** while researching **Higher Category Theory**.
+<a href="https://github.com/msdmirzaei?tab=followers"><img src="https://img.shields.io/github/followers/msdmirzaei?style=for-the-badge&logo=github&logoColor=white&color=00ADD8&labelColor=0D1117" alt="Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=msdmirzaei&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/M.Sc.-Sharif_University-00ADD8?style=for-the-badge&labelColor=0D1117" alt="Sharif University"/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%89-Iranian_Student_Math_Competition-00ADD8?style=for-the-badge&labelColor=0D1117" alt="Bronze medal"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+</div>
 
-> **Go • System Design • Mathematics • Artificial Intelligence**
+<br/>
+
+## 👋 About
+
+<img align="right" width="150" src="https://api.boot.dev/v1/users/public/0dda6278-298b-48d0-8906-9b9e24d45727/thumbnail" alt="Masoud"/>
+
+I'm a **Backend Engineer** and an **M.Sc. student in Pure Mathematics** at Sharif University of
+Technology. I build reliable, scalable services — mostly in **Go**, sometimes in **Python/Django** —
+where correctness and maintainability matter more than cleverness.
+
+On the research side I work in **Higher Category Theory**, with a broader interest in Algebraic
+Geometry, Algebraic Topology, and Spectral Geometry. I was awarded a **🥉 Bronze Medal** in the
+Iranian Student Mathematics Competition.
+
+I'm increasingly drawn to **Artificial Intelligence**, particularly where its mathematical
+foundations meet real systems engineering.
+
+<br clear="right"/>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,python,cpp,postgres,sqlite,django&theme=dark" alt="Languages and backend"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,gitlab,ts&theme=dark" alt="Tooling"/>
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+`Go` · `Python` · `SQL` · `C++`
+
+**Backend**
+`Gin` · `GORM` · `Django` · `DRF`
+`REST APIs` · `Auth & AuthZ`
+
+**Data**
+`PostgreSQL` · `SQLite` · `Schema Design`
+
+</td>
+<td valign="top" width="50%">
+
+**DevOps**
+`Docker` · `Linux` · `Git`
+`GitHub Actions` · `GitLab CI/CD`
+
+**Computer Science**
+`System Design` · `Concurrency`
+`Database Design` · `API Design`
+
+**Currently Learning**
+`AI / LLMs` · `Distributed Systems` · `TypeScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=msdmirzaei&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msdmirzaei&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="Top languages"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=msdmirzaei&bg_color=0D1117&color=00ADD8&line=00ADD8&point=C9D1D9&area=true&hide_border=true" alt="Contribution graph"/>
 
 </div>
 
 ---
 
-## 👋 About
-
-I'm a **Backend Engineer** and an **M.Sc. student in Pure Mathematics** passionate about building reliable and scalable software systems.
-
-My mathematical interests include:
-
-- Higher Category Theory
-- Algebraic Geometry
-- Algebraic Topology
-- Spectral Geometry
-
-I was awarded a **Bronze Medal in the Iranian Student Mathematics Competition**, reflecting my passion for mathematical problem solving.
-
-Professionally, I work mainly with **Go** and **Python/Django**, building REST APIs, backend services, database systems, and applications where correctness and maintainability matter.
-
-I'm also deeply interested in **Artificial Intelligence**, especially the connection between mathematical foundations and modern AI systems.
-
----
-
-# 🎓 Education
-
-## Sharif University of Technology
-
-**M.Sc. in Pure Mathematics** *(Current)*
-
-### Research Areas
-
-- Higher Category Theory
-- Algebraic Geometry
-- Algebraic Topology
-- Spectral Geometry
-
-### Honors
-
-- 🥉 Bronze Medal — Iranian Student Mathematics Competition
-
----
-
-# 💭 Philosophy
+## 💭 Philosophy
 
 ```go
 package main
 
 type Engineer struct {
-	Name       string
-	Focus      []string
-	Math       []string
-	Values     []string
+	Name   string
+	Focus  []string
+	Math   []string
+	Values []string
 }
 
 func (e Engineer) Philosophy() string {
@@ -102,83 +133,54 @@ var masoud = Engineer{
 
 ---
 
-# 🚀 Tech Stack
+<details>
+<summary><b>🎓 Education &amp; Research</b></summary>
 
-## Languages
+<br/>
 
-- Go
-- Python
-- SQL
-- C++
+### Sharif University of Technology
+**M.Sc. in Pure Mathematics** — *in progress*
 
-## Backend
+**Research areas**
 
-- Go (Gin, GORM)
-- Django & Django REST Framework
-- REST APIs
-- PostgreSQL
-- SQLite
-- Authentication & Authorization
+| Area | |
+|---|---|
+| Higher Category Theory | primary focus |
+| Algebraic Geometry | |
+| Algebraic Topology | |
+| Spectral Geometry | |
 
-## DevOps
+**Also studied:** Abstract Algebra, Graph Theory
 
-- Docker
-- Linux
-- Git
-- GitHub Actions
-- GitLab CI/CD
+**Honors**
+🥉 Bronze Medal — Iranian Student Mathematics Competition
 
-## Computer Science
+</details>
 
-- System Design
-- Concurrent Programming
-- Database Design
-- API Design
+<details>
+<summary><b>💡 What I Value</b></summary>
 
----
+<br/>
 
-# 📚 Mathematics
-
-- Higher Category Theory
-- Algebraic Geometry
-- Algebraic Topology
-- Spectral Geometry
-- Abstract Algebra
-- Graph Theory
-
----
-
-# 🌱 Currently Learning
-
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Distributed Systems
-- TypeScript
-
----
-
-# 💡 What I Value
-
-- Mathematical thinking
+- Mathematical thinking as an engineering tool
 - Correctness over cleverness
 - Explicit design over hidden magic
-- Clean and maintainable systems
+- Clean, maintainable systems
 - Continuous learning
 
----
-
-# 🎯 Interests
-
-- Backend Engineering
-- Artificial Intelligence
-- Pure Mathematics
-- Category Theory
-- Open Source Software
+</details>
 
 ---
 
-# 📫 Connect
+## 📫 Connect
 
-- 🌐 Website: https://your-domain.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your@email.com
+<div align="center">
+
+<a href="mailto:msdmirzaei@outlook.com"><img src="https://img.shields.io/badge/Email-00ADD8?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-00ADD8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://your-domain.com"><img src="https://img.shields.io/badge/Website-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website"/></a>
+<a href="https://github.com/msdmirzaei"><img src="https://img.shields.io/badge/GitHub-00ADD8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,50:006D8F,100:0D1117&height=120&section=footer" width="100%" alt=""/>
