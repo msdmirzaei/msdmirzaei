@@ -179,7 +179,7 @@ var masoud = Engineer{
 <div align="center">
 
 <a href="mailto:msdmirzaei@outlook.com"><img src="https://img.shields.io/badge/Email-00ADD8?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D1117" alt="Email"/></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-00ADD8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/masoudmirzaei0/"><img src="https://img.shields.io/badge/LinkedIn-00ADD8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 <a href="https://github.com/msdmirzaei"><img src="https://img.shields.io/badge/GitHub-00ADD8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
 
 </div>
