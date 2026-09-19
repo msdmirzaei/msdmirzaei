@@ -82,10 +82,12 @@ foundations meet real systems engineering.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=msdmirzaei&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msdmirzaei&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9" alt="Top languages"/>
+<img height="195" src="https://streak-stats.demolab.com/?user=msdmirzaei&hide_border=true&background=0D1117&stroke=00ADD8&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Contribution streak"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=msdmirzaei&bg_color=0D1117&color=00ADD8&line=00ADD8&point=C9D1D9&area=true&hide_border=true" alt="Contribution graph"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msdmirzaei&theme=github_dark" alt="Profile summary"/>
+
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msdmirzaei&theme=github_dark" alt="Repos per language"/>
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msdmirzaei&theme=github_dark" alt="Most commit language"/>
 
 </div>
 
